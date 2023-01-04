@@ -8,6 +8,14 @@ public class practice {
 		// TODO Auto-generated method stub
 		System.out.println("Hello world");
 		System.out.println("New Updates");
+		
+		ArrayList al=new ArrayList();
+		
+		al.add(10);
+		al.add("Abrar");
+		
+		System.out.println(al);
+		System.out.print(al.contains("Abrar"));
 
 	}
 
